@@ -1,0 +1,8 @@
+print("Плейлист папы:")
+song_1=input()
+song_2=input()
+song_3=input()
+song_4=input()
+song_5=input()
+print("Плейлист мамы:")
+print(song_5,song_4,song_3,song_2,song_1,sep="\n")
