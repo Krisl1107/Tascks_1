@@ -1,0 +1,7 @@
+print("Login:",end=" ")
+input()
+print("Password:",end=" ")
+input()
+print("New password:",end=" ")
+new_password=input()
+print("User durov has changed the password to",new_password)
