@@ -1,0 +1,4 @@
+import math
+blind_spot=int(input())
+r=int(input())
+print(math.pi*(r**2-blind_spot**2))
